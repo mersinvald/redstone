@@ -1,0 +1,17 @@
+[package]
+name = "redstone"
+version = "0.1.0"
+authors = ["Mike Lubinets <lubinetsm@yandex.ru>"]
+description = "Crate to provide ruby-like syntax sugar for rust primitives"
+documentation = "https://docs.rs/redstone/"
+homepage = "https://github.com/mersinvald/redstone"
+repository = "https://github.com/mersinvald/redstone"
+readme = "README.md"
+keywords = ["ruby", "syntax", "sugar", "rust", "primitives"]
+license = "MIT"
+license-file = "LICENSE"
+
+[badges]
+travis-ci = { repository = "mersinvald/redstone", branch = "master" }
+
+[dependencies]
